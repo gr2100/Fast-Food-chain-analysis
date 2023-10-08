@@ -9,7 +9,14 @@ This repository contains a visualization project that utilizes Gephi, Tableau, M
   
 ## Introduction
 
-Data visualization is a crucial aspect of data analysis and storytelling. This project combines the power of several popular tools and libraries to create visualizations that help you gain valuable insights from your data. Here's a brief overview of the technologies used:
+Fast food chains play a significant role in the modern food industry and have witnessed substantial expansion over the years. This project aims to analyze their expansion strategies, health implications, and geographic distribution using data visualization tools. Key components of the project include:
+
+- **Data Collection**: The project begins by collecting a diverse dataset that includes historical expansion data, health issues caused, obesity trends, and more, pertaining to fast food chain locations.
+
+- **Data Processing**: The collected data is then integrated and processed to identify key expansion trends and patterns.
+
+- **Tableau Visualization**: Utilizing the Tableau application, the project creates interactive maps that visually represent the geographic spread of fast food chains over time.
+
 
 - **Gephi**: Gephi is an open-source software for visualizing and exploring networks and complex systems.
 
